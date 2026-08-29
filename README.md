@@ -1,6 +1,6 @@
 # Track 1 - Day 27 — AI Team Lab
 
-- **Team:** P-181 (VinUni AI20K Build Phase — Cohort 3)
+- **Team:** X (VinUni AI20K Build Phase — Cohort 3)
 - **Thành viên (4 người):**
   - Phạm Đức Thiện — Team Lead (tài liệu, test, CI/CD) · *trưởng nhóm, người tổng hợp bài*
   - Đoàn Văn Tuyền — Input/sensor data, mô hình dự báo time-series (LSTM)
@@ -13,7 +13,7 @@
 
 ## Bài nộp
 
-📄 [`Day27_AI-Team-Lab_TeamP181.pdf`](./Day27_AI-Team-Lab_TeamP181.pdf) — 4 trang:
+📄 [`Day27_AI-Team-Lab_TeamX.pdf`](./Day27_AI-Team-Lab_TeamX.pdf) — 4 trang:
 
 | Trang | Nội dung |
 | --- | --- |
